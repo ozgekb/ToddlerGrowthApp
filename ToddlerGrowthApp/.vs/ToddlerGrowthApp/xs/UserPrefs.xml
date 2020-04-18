@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{2906924F-625F-4E23-9A3E-0EAB51F42008}|Default">
+  <MonoDevelop.Ide.ItemProperties.ToddlerGrowthApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToddlerGrowthApp/Baby.cs">
+    <Files>
+      <File FileName="ToddlerGrowthApp/Program.cs" Line="1" Column="1" />
+      <File FileName="ToddlerGrowthApp/Baby.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToddlerGrowthApp" expanded="True" selected="True">
+            <Node name="ToddlerGrowthApp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
