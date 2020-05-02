@@ -3,8 +3,6 @@ namespace ToddlerGrowthApp
 {
     public class GrowthRate
     {
-        public GrowthRate()
-        {
-        }
+       
     }
 }

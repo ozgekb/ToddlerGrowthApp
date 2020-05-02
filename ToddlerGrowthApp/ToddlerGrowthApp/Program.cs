@@ -6,7 +6,7 @@ namespace ToddlerGrowthApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var firstItem = ToddlerGrowth.LoadItem("car", "red", "its a red small car with remote control",5,ToddlerGrowthApp.TypeOfItem.toy,1);
         }
     }
 }

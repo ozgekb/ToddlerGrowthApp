@@ -1,22 +1,26 @@
 ﻿<Properties StartupConfiguration="{2906924F-625F-4E23-9A3E-0EAB51F42008}|Default">
-  <MonoDevelop.Ide.ItemProperties.ToddlerGrowthApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ToddlerGrowthApp/login.cs">
+  <MonoDevelop.Ide.ItemProperties.ToddlerGrowthApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToddlerGrowthApp/Migrations/20200502064148_first.cs">
     <Files>
-      <File FileName="ToddlerGrowthApp/UsedItem.cs" Line="7" Column="10" />
-      <File FileName="ToddlerGrowthApp/SleepingTrack.cs" Line="15" Column="1" />
-      <File FileName="ToddlerGrowthApp/FeedingTrack.cs" Line="7" Column="10" />
-      <File FileName="ToddlerGrowthApp/GrowthRate.cs" Line="1" Column="1" />
-      <File FileName="ToddlerGrowthApp/Program.cs" Line="1" Column="1" />
-      <File FileName="ToddlerGrowthApp/Baby.cs" Line="26" Column="65" />
-      <File FileName="ToddlerGrowthApp/ToddlerGrowth.cs" Line="6" Column="8" />
-      <File FileName="ToddlerGrowthApp/login.cs" Line="4" Column="4" />
+      <File FileName="ToddlerGrowthApp/UsedItem.cs" Line="14" Column="27" />
+      <File FileName="ToddlerGrowthApp/SleepingTrack.cs" Line="7" Column="5" />
+      <File FileName="ToddlerGrowthApp/FeedingTrack.cs" Line="4" Column="5" />
+      <File FileName="ToddlerGrowthApp/GrowthRate.cs" Line="5" Column="6" />
+      <File FileName="ToddlerGrowthApp/Program.cs" Line="13" Column="1" />
+      <File FileName="ToddlerGrowthApp/Baby.cs" Line="35" Column="24" />
+      <File FileName="ToddlerGrowthApp/ToddlerGrowth.cs" Line="21" Column="21" />
+      <File FileName="ToddlerGrowthApp/login.cs" Line="13" Column="1" />
+      <File FileName="ToddlerGrowthApp/ToddlerGrowthContext.cs" Line="44" Column="1" />
+      <File FileName="ToddlerGrowthApp/Migrations/20200502064148_first.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ToddlerGrowthApp" expanded="True">
             <Node name="ToddlerGrowthApp" expanded="True">
-              <Node name="login.cs" selected="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20200502064148_first.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

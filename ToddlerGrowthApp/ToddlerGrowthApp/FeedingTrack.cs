@@ -1,10 +1,8 @@
 ﻿using System;
 namespace ToddlerGrowthApp
 {
-    public class FeedingTrack
+    class FeedingTrack
     {
-        public FeedingTrack()
-        {
-        }
+      
     }
 }
