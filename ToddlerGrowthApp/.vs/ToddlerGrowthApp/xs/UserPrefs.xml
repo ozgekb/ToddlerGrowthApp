@@ -1,17 +1,13 @@
 ﻿<Properties StartupConfiguration="{2906924F-625F-4E23-9A3E-0EAB51F42008}|Default">
   <MonoDevelop.Ide.ItemProperties.ToddlerGrowthApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ToddlerGrowthApp/Migrations/20200502064148_first.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToddlerGrowthApp/Migrations/20200601013446_baby1.cs">
     <Files>
-      <File FileName="ToddlerGrowthApp/UsedItem.cs" Line="14" Column="27" />
-      <File FileName="ToddlerGrowthApp/SleepingTrack.cs" Line="7" Column="5" />
-      <File FileName="ToddlerGrowthApp/FeedingTrack.cs" Line="4" Column="5" />
-      <File FileName="ToddlerGrowthApp/GrowthRate.cs" Line="5" Column="6" />
-      <File FileName="ToddlerGrowthApp/Program.cs" Line="13" Column="1" />
-      <File FileName="ToddlerGrowthApp/Baby.cs" Line="35" Column="24" />
-      <File FileName="ToddlerGrowthApp/ToddlerGrowth.cs" Line="21" Column="21" />
-      <File FileName="ToddlerGrowthApp/login.cs" Line="13" Column="1" />
-      <File FileName="ToddlerGrowthApp/ToddlerGrowthContext.cs" Line="44" Column="1" />
-      <File FileName="ToddlerGrowthApp/Migrations/20200502064148_first.cs" Line="1" Column="1" />
+      <File FileName="ToddlerGrowthApp/ToddlerGrowthContext.cs" Line="73" Column="52" />
+      <File FileName="ToddlerGrowthApp/ToddlerGrowth.cs" Line="84" Column="1" />
+      <File FileName="ToddlerGrowthApp/Program.cs" Line="38" Column="1" />
+      <File FileName="ToddlerGrowthApp/User.cs" Line="11" Column="42" />
+      <File FileName="ToddlerGrowthApp/Baby.cs" Line="24" Column="1" />
+      <File FileName="ToddlerGrowthApp/Migrations/20200601013446_baby1.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,7 +15,7 @@
           <Node name="ToddlerGrowthApp" expanded="True">
             <Node name="ToddlerGrowthApp" expanded="True">
               <Node name="Migrations" expanded="True">
-                <Node name="20200502064148_first.cs" selected="True" />
+                <Node name="20200601013446_baby1.cs" selected="True" />
               </Node>
             </Node>
           </Node>

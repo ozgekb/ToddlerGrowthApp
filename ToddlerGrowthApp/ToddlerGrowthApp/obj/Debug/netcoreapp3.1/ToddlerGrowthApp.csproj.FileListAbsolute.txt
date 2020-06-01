@@ -43,3 +43,4 @@
 /Users/boyraz/Projects/ToddlerGrowthApp/ToddlerGrowthApp/ToddlerGrowthApp/obj/Debug/netcoreapp3.1/ToddlerGrowthApp.dll
 /Users/boyraz/Projects/ToddlerGrowthApp/ToddlerGrowthApp/ToddlerGrowthApp/obj/Debug/netcoreapp3.1/ToddlerGrowthApp.pdb
 /Users/boyraz/Projects/ToddlerGrowthApp/ToddlerGrowthApp/ToddlerGrowthApp/obj/Debug/netcoreapp3.1/ToddlerGrowthApp.genruntimeconfig.cache
+/Users/boyraz/Projects/ToddlerGrowthApp/ToddlerGrowthApp/ToddlerGrowthApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.Design.dll
